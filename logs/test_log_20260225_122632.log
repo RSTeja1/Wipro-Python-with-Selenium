@@ -1,0 +1,22 @@
+2026-02-25 12:26:32,781 - INFO - ====== WebDriver manager ======
+2026-02-25 12:26:34,490 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-25 12:26:34,662 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-25 12:26:34,771 - INFO - Driver [C:\Users\ramya\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-25 12:26:36,664 - INFO - Opening application
+2026-02-25 12:26:48,066 - INFO - Entering the credentials
+2026-02-25 12:26:55,480 - INFO - ====== WebDriver manager ======
+2026-02-25 12:26:56,982 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-25 12:26:57,089 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-25 12:26:57,188 - INFO - Driver [C:\Users\ramya\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-25 12:26:58,511 - INFO - Opening application
+2026-02-25 12:27:08,706 - INFO - Closing the application
+2026-02-25 12:27:16,899 - INFO - ====== WebDriver manager ======
+2026-02-25 12:27:18,290 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-25 12:27:18,391 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-25 12:27:18,497 - INFO - Driver [C:\Users\ramya\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-25 12:27:19,833 - INFO - Opening application
+2026-02-25 12:27:39,530 - INFO - ====== WebDriver manager ======
+2026-02-25 12:27:40,934 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-25 12:27:41,043 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-25 12:27:41,139 - INFO - Driver [C:\Users\ramya\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-25 12:27:42,437 - INFO - Opening application

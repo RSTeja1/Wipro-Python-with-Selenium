@@ -1,0 +1,20 @@
+2026-02-25 16:19:18,540 - INFO - Starting test for user: standard_user
+2026-02-25 16:19:23,116 - INFO - Login successful
+2026-02-25 16:19:27,292 - INFO - Product added to cart
+2026-02-25 16:19:29,381 - INFO - Checkout started
+2026-02-25 16:19:33,850 - INFO - Entered checkout information
+2026-02-25 16:19:33,921 - INFO - Overview page loaded: Total: $32.39
+2026-02-25 16:19:36,036 - INFO - Order placed successfully
+2026-02-25 16:19:49,580 - INFO - Starting test for user: locked_out_user
+2026-02-25 16:19:52,036 - INFO - Locked user rejected correctly
+2026-02-25 16:22:19,993 - INFO - Starting test for user: standard_user
+2026-02-25 16:22:24,538 - INFO - Login successful
+2026-02-25 16:22:28,728 - INFO - Product added to cart
+2026-02-25 16:22:30,843 - INFO - Checkout started
+2026-02-25 16:22:35,338 - INFO - Entered checkout information
+2026-02-25 16:22:35,399 - INFO - Overview page loaded: Total: $32.39
+2026-02-25 16:22:37,512 - INFO - Order placed successfully
+2026-02-25 16:22:47,643 - INFO - Starting test for user: locked_out_user
+2026-02-25 16:22:50,073 - INFO - Locked user rejected correctly
+2026-02-25 17:20:38,269 - INFO - Starting test for user: Admin
+2026-02-25 17:20:59,946 - INFO - Starting test for user: Admin
